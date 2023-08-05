@@ -1,1 +1,1 @@
-# school_stuff
+# Projects from my master in DS
